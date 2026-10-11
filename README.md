@@ -79,7 +79,7 @@ Equipped with a **3D Neural Vortex Canvas HUD**, **Claude 3.5 Sonnet Reasoning T
 
 ### Step 1: Clone Repository
 ```bash
-git clone https://github.com/thoratpratik2323-hue/IP-Codemaker-Agent-ip_agent_001.git
+git clone https://github.com/pratikpt1304/IP-Codemaker-Agent-ip_agent_001.git
 cd IP-Codemaker-Agent-ip_agent_001
 ```
 
@@ -119,7 +119,7 @@ Open **[http://localhost:3006](http://localhost:3006)** in your browser!
 
 - **Developer:** Pratik (IP Verse)
 - **Portfolio Website:** [https://pratik-pt1908.netlify.app](https://pratik-pt1908.netlify.app)
-- **GitHub Repository:** [IP-Codemaker-Agent-ip_agent_001](https://github.com/thoratpratik2323-hue/IP-Codemaker-Agent-ip_agent_001)
+- **GitHub Repository:** [IP-Codemaker-Agent-ip_agent_001](https://github.com/pratikpt1304/IP-Codemaker-Agent-ip_agent_001)
 
 ---
 
